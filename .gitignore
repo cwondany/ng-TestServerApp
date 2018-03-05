@@ -1,0 +1,25 @@
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# allure
+/allure-unit-web2print
+
+# System Files
+.DS_Store
+Thumbs.db
+
+package-lock.json
